@@ -1,4 +1,4 @@
-print ("*****calculadora******")
+print ("*****Suma******")
 
 try:
     n1= int (input("\nIngrese un numero:"))
