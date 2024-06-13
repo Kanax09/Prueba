@@ -1,1 +1,1 @@
-print("PUTO v2 asdd")
+print("PUTO ")
